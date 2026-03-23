@@ -1,6 +1,6 @@
 # PERFIL
 <center> ANRONIO DE JESÚS TEJEDA LÓPEZ </center>
-<br><center><img src="1234.jpg" width="250" height="230"> </img> </center></br>
+<br><center><img src="1234.png" width="250" height="230"> </img> </center></br>
 
 ## ACERCA DE MI
 
