@@ -1,7 +1,7 @@
 <TABLE>
     <TR>
         <TH STYLE="font-size: 28px" > ¡BIENVENIDO/A! </TH>
-        <td> <img src="goodbye_5821932.png" width="50" height="50"></img></td>
+        <td> <img src="4312.png" width="50" height="50"></img></td>
     </TR>
 </TABLE>
 

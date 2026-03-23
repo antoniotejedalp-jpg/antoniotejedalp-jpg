@@ -25,8 +25,6 @@
 ## IDIOMAS
 * Español _(lengua materna)_
 * Inglés 
-* Francés
-* Japonés 
 
 ***
 <br>

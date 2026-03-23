@@ -24,19 +24,18 @@ _2024 - Actualidad_
 ***
 **Técnico en Programación**
 
-Centro de Estudios Tecnológicos Industrial y de Servicios No. 145
 
-_2017 - 2020_
+
+__
 
 ## EXPERIENCIA
-* Desarrollo del sistema _“Farmaciawr”_ en Java, conectado a base de datos en MySQL Workbench, permitiendo operaciones de altas, bajas y cambios (CRUD) de productos y personal en una farmacia.
+* Desarrollo del sistema _“Tier list”_ en Java, conectado a base de datos en MySQL Workbench, permitiendo operaciones de altas, bajas y cambios (CRUD) de usuarios y tablas de su tier list.
 
 * Implementación de un juego del _“gato”_ (tic-tac-toe) utilizando Python, aplicando lógica de control de flujo y estructuras de datos.
 
 * Construcción de un _piano electrónico_ con Arduino y sensores, integrando hardware y software para la generación de sonidos interactivos.
 
-* Desarrollo del juego _“Simón Dice”_ con Arduino, utilizado como ejemplo práctico del funcionamiento de la Máquina de Mealy en sistemas digitales.
-
+* 
 ***
 <br>
 <a href="README.md" style="background-color: white; color: black; padding: 5px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: bold">
